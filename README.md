@@ -11,3 +11,5 @@
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal to become a mid-level software Automation tester in 2 years.
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1loY2K-2Xn5X01JinEABcIAOraO-5SmqG/view?usp=drive_link).
+## Skiils
+
