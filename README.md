@@ -10,6 +10,6 @@
   i got my Bachelore's Degree  from Mumbai university.Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal to become a mid-level software Automation tester in 2 years.
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1loY2K-2Xn5X01JinEABcIAOraO-5SmqG/view?usp=drive_link).
+You can download my CV as https://drive.google.com/file/d/1ud4c39V00Q6MPgQywUz8Rj9zXuXRxWtE/view?usp=sharing.
 ## Skiils
 
