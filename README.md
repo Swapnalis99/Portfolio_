@@ -11,7 +11,7 @@
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal to become a mid-level software Automation tester in 2 years.  
 Visit  my  Linkeln profile here www.linkedin.com/in/swapnali-shewale-3a9433190
 ## CV
-You can download my CV as https://drive.google.com/file/d/10xszjul0Yt3vDSc0AWCnkLIO24gofrrl/view?usp=sharing
+You can download my CV as https://drive.google.com/file/d/1SsY_bI8LtdUDlYotIOpiNQ4v56-ybd8G/view?usp=sharing
 
 ## Tools
 * Jira - bug tracker
