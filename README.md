@@ -29,7 +29,7 @@ You can download my CV as https://drive.google.com/file/d/1SsY_bI8LtdUDlYotIOpiN
 * Cypress Web Automation Testing (udemy)
 * The Complete web developer course (udemy)
 
-## My Projects
+
 
  
 
