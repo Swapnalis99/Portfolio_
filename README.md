@@ -12,7 +12,7 @@ I would be extremely happy to apply obtained knowledge to testing an operational
 Visit  my  Linkeln profile here www.linkedin.com/in/swapnali2512
 
 ## CV
-You can download my CV as https://drive.google.com/file/d/1SsY_bI8LtdUDlYotIOpiNQ4v56-ybd8G/view?usp=sharing
+You can download my CV as https://drive.google.com/file/d/1NVIIrGiSUZQEWiSa2Z3IZfy1xfk155As/view?usp=drive_link
 
 ## Tools
 * Jira - bug tracker
